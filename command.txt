@@ -1,0 +1,10 @@
+# запуск виртуального окружения
+
+cd C:\Django\venv\Scripts
+activate
+
+
+# запуск отлад сервера
+
+cd C:\Django\landing_root
+python manage.py runserver
